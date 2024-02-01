@@ -1,0 +1,25 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height :100vh;
+    background-color: azure;
+}
+
+.register-form{
+    border:1px solid black;
+    padding: 30px;
+    background-color: rgb(33, 211, 211);
+}
+.ms-2{
+    font-style: italic;
+    padding: 20px; ;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.form-btn{
+    width: 250px !important;
+    margin-top: 30px  !important;
+}
+
